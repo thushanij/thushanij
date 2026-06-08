@@ -1,6 +1,5 @@
 <div align="center">
 
-```
 
 
 # P.M. Thushani Jayasena
