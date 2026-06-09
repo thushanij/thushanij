@@ -22,7 +22,7 @@
 thushani = {
     "degree"    : "B.Sc. (Hons) Statistics & Operations Research",
     "university": "University of Peradeniya 🇱🇰",
-    "gpa"       : 3.6,
+    "gpa"       : 3.56,
     "focus"     : ["Data Analytics", "OR Optimization", "ML & Forecasting"],
     "tools"     : ["Python", "R", "SQL", "Power BI", "Excel"],
     "goal"      : "Translating complex problems into actionable quantitative models",
