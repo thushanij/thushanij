@@ -120,12 +120,11 @@ Android-based hotel operations platform integrating analytics and automation.
 ---
 
 ## GitHub Stats
-
 <div align="center">
 
-![Thushani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmthushanijayasena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Thushani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thushanij&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmthushanijayasena&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thushanij&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
