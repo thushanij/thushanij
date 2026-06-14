@@ -130,17 +130,6 @@ Android-based hotel operations platform integrating analytics and automation.
 
 ---
 
-## Certifications
-
-| Certificate | Provider |
-|---|---|
-| Microsoft Power BI Data Analyst Professional Certificate | Coursera |
-| Google Data Analysis with Python Specialization | Coursera |
-| Data Analysis with R Programming | Coursera |
-| Databases and SQL for Data Science with Python | Coursera |
-| Preparing Data for Analysis with Microsoft Excel | Coursera |
-
----
 
 ## Areas of Interest
 
